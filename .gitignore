@@ -1,0 +1,4 @@
+bazel-bazel-nolegacy_external_runfiles-repro
+bazel-bin
+bazel-out
+bazel-testlogs
